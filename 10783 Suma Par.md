@@ -1,6 +1,6 @@
 # 10783 Odd Sum: Suma Par
 
-Dado un rango de `[a,b]`, se debe sumar cualquier **número par** entre estos dígitos.
+Dado un rango de $\[alpha,beta]`, se debe sumar cualquier **número par** entre estos dígitos.
 Por ejemplo, la suma de los rangos `[3,9]` es `3 + 5 + 7 + 9 = 24`.
 
 ## Input
