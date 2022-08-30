@@ -5,7 +5,8 @@ Por ejemplo, la suma de los rangos `[3,9]` es `3 + 5 + 7 + 9 = 24`.
 
 ## Input
 
-$T
+Cada caso de prueba consiste en 2 números **reales** a indicar, $a y $b.
+
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
